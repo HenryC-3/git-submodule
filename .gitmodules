@@ -1,0 +1,3 @@
+[submodule "git-nested-submodule"]
+	path = git-nested-submodule
+	url = https://github.com/HenryC-3/git-nested-submodule
